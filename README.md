@@ -1,1 +1,7 @@
-Some School side stuff
+Lean C++ 
+A Small Scool Side Project.
+
+#include<iostream>
+  {
+ return 0;
+}
